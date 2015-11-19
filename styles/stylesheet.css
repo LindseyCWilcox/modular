@@ -32,3 +32,12 @@ a:visited {
 a:hover {
   text-decoration:underline;
 }
+button {
+  font-size: 1rem;
+  padding: .7rem;
+  border-style: solid;
+  border-color: black;
+  background: white;
+  border-width: .1rem;
+}
+  
